@@ -31,7 +31,6 @@
     "url": "https://github.com/twbs/bootstrap/issues"
   },
   "license": "MIT",
-  "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^9.4.7",
     "btoa": "^1.2.1",
